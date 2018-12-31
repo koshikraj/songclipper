@@ -10,7 +10,7 @@ There are 3 interfaces in the application
 
 * REST API
 
-* Frontend with google chrome extension
+* [Frontend with google chrome extension](https://chrome.google.com/webstore/detail/song-clipper/bialkkkbimchmgddmlbbbnlmfcnkfjnb)
 
 ### Command line interface
 
@@ -46,6 +46,8 @@ An interface for users to search and download audio files.
 
 * Click Load unpacked extension and select the directory in which your extension files live. If the extension is valid, you will see the details of the
 extension as shown in the image along with a new application icon on the address bar.
+
+You can find the published extension [here](https://chrome.google.com/webstore/detail/song-clipper/bialkkkbimchmgddmlbbbnlmfcnkfjnb)
 
 ![extension](./extension.png)
 
