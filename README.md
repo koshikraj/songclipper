@@ -32,7 +32,7 @@ This component is used as backend for frontend chrome extension.
 
 ```
 pip install -r requirements.txt
-python api/api.py
+python api/app.py
 
 ```
 
